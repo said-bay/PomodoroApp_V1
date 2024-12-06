@@ -1,0 +1,1 @@
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/intermediates/cxx/Debug/60b6b625/obj/x86

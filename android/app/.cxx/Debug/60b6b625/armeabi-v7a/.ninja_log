@@ -1,0 +1,19 @@
+# ninja log v5
+4999	5202	1733469420948441263	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/intermediates/cxx/Debug/60b6b625/obj/armeabi-v7a/libappmodules.so	75ebf8c144b8730c
+2	4999	1733469420737081191	CMakeFiles/appmodules.dir/OnLoad.cpp.o	f2d1da64e2231b7f
+0	4364	1733469420103714653	CMakeFiles/appmodules.dir/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	4a44b26f1ae8cbbd
+1	82	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/cmake.verify_globs	1be576046d533d1d
+82	218	1733481589765942526	build.ninja	20bb61771fd0878b
+0	41	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/cmake.verify_globs	1be576046d533d1d
+6	3571	1733481593387873807	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	8083c7cc214e36c4
+5	3884	1733481593702930394	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	c0432ee4933b54eb
+6	4570	1733481594384842116	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	7334c644e775cf7b
+5	4874	1733481594686318976	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	95e48d0bd7b80418
+6	4892	1733481594701944219	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	24686088c802537a
+5	5090	1733481594901908442	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	5b44cbbdcefe0609
+7	5137	1733481594931174443	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	21e96030b01ca66d
+4	5159	1733481594964838966	CMakeFiles/appmodules.dir/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	75cf17c03543bc7e
+5	5676	1733481595492725271	CMakeFiles/appmodules.dir/OnLoad.cpp.o	2516720d57ba7300
+5677	5865	1733481595684945460	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/intermediates/cxx/Debug/60b6b625/obj/armeabi-v7a/libappmodules.so	4a27e16f72c00a51
+0	89	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/cmake.verify_globs	1be576046d533d1d
+0	19	0	clean	731cc1623eacbb37

@@ -1,0 +1,19 @@
+# ninja log v5
+1	7367	1733469411308231879	CMakeFiles/appmodules.dir/OnLoad.cpp.o	9898281d92af4032
+0	6557	1733469410495633722	CMakeFiles/appmodules.dir/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d6249a28ae9aa34
+7367	7625	1733469411573866464	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/intermediates/cxx/Debug/60b6b625/obj/arm64-v8a/libappmodules.so	4fc4fea4c184f630
+5	97	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/arm64-v8a/CMakeFiles/cmake.verify_globs	a2aea93cb67e5667
+97	284	1733481582927550961	build.ninja	60edc32dc4af72ce
+0	50	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/arm64-v8a/CMakeFiles/cmake.verify_globs	a2aea93cb67e5667
+23	4232	1733481587225954931	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	3666d774cf7272f9
+22	4434	1733481587426189684	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	a7bdd8ba9108bb28
+23	5120	1733481588114630744	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	5a814add62e553a2
+22	5303	1733481588291087902	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	2a30d9a3a8ff5c53
+24	5458	1733481588436547639	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	84bb90c4253cc45
+23	5582	1733481588578440148	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	4bb9456cb3045cd3
+24	5594	1733481588589486643	CMakeFiles/appmodules.dir/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	70ba60ec4fc89c42
+24	5596	1733481588589555450	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	e10931900dd62abd
+25	6016	1733481589012734610	CMakeFiles/appmodules.dir/OnLoad.cpp.o	3e413e7586485398
+6017	6363	1733481589363620869	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/build/intermediates/cxx/Debug/60b6b625/obj/arm64-v8a/libappmodules.so	8e1f3f5da8390442
+0	40	0	/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/arm64-v8a/CMakeFiles/cmake.verify_globs	a2aea93cb67e5667
+0	21	0	clean	731cc1623eacbb37

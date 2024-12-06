@@ -1,0 +1,6 @@
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/android/app/.cxx/Debug/60b6b625/armeabi-v7a/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir

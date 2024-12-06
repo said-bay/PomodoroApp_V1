@@ -1,0 +1,1 @@
+/Users/ahmet/Desktop/PomodoroApp_V1/PomodoroApp/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt
